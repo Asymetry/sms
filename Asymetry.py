@@ -4,7 +4,6 @@
 import os
 
 os.system("apt-get install figlet")
-os.system("apt-get install nikto")
 os.system("apt-get install searchsploit")
 os.system("clear")
 os.system("figlet Asymetry")
