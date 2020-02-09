@@ -32,7 +32,7 @@ if(islemno == "1"):
 	os.system("clear");
         os.system("figlet Asymetry");
 	hedefip = raw_input("\033[96mHedef İP Girin ==> ");
-        os.system("nmap -sS -sV -O -Pn " + hedefip);
+        os.system("nmap -sS -sV -O " + hedefip);
 
 elif(islemno == "2"):
 	os.system("clear");
