@@ -1,5 +1,7 @@
 # AsymetryTR.
 
+Program sadece kali linux üzerinde çalışmaktadır.
+
 <b>Programımızın yaptıkları</b>
 
 <br>Port taraması 
