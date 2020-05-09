@@ -5,7 +5,7 @@
 <br>Port taraması 
 <br>Exploit araması 
 <br>MAC adresi değişme
-<br>MAC adresi orjinale geri getirme
+
 
 # KURULUM
 
