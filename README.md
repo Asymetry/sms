@@ -9,4 +9,4 @@
 <br>>>><code> cd AsymetryTR. </code> 
 <br>>>><code> python3 Asymetry.py </code>
 
-<a href="https://hizliresim.com/O5vTtJ">screenshot</a>
+<a href="https://hizliresim.com/O5vTtJ.png">screenshot</a>
