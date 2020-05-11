@@ -4,7 +4,7 @@
    
 # Kurulum
 
-$ apt-get install python3 python3-pip
-$ git clone https://github.com/Asymetry/AsymetryTR..git
-$ cd AsymetryTR.
-$ python3 Asymetry.py
+<code> apt-get install python3 python3-pip
+<code> git clone https://github.com/Asymetry/AsymetryTR..git
+<code> cd AsymetryTR.
+<code> python3 Asymetry.py
