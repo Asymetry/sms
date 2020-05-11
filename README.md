@@ -8,3 +8,6 @@
 <br>>>><code> git clone https://github.com/Asymetry/AsymetryTR..git </code>
 <br>>>><code> cd AsymetryTR. </code> 
 <br>>>><code> python3 Asymetry.py </code>
+
+
+<a href="https://hizliresim.com/O5vTtJ"size=400></a>
