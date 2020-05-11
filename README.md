@@ -1,16 +1,10 @@
 # AsymetryTR.
+  
+   Program sadece Kali linux üzerinde çalışmaktadır.!!!
+   
+# Kurulum
 
-Program sadece kali linux üzerinde çalışmaktadır.
-
-<b>Programımızın yaptıkları</b>
-
-<br>Port taraması 
-<br>Exploit araması 
-<br>MAC adresi değişme
-
-
-# KURULUM
-
-<br> <code> git clone https://github.com/Asymetry/AsymetryTR..git </code>
-<br> <code> cd AsymetryTR. </code>
-<br> <code> python Asymetry.py </code>
+$ apt-get install python3 python3-pip
+$ git clone https://github.com/Asymetry/AsymetryTR..git
+$ cd AsymetryTR.
+$ python3 Asymetry.py
