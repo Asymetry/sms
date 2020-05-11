@@ -9,5 +9,4 @@
 <br>>>><code> cd AsymetryTR. </code> 
 <br>>>><code> python3 Asymetry.py </code>
 
-
-<a href="https://hizliresim.com/O5vTtJ"size=400></a>
+<img src="https://hizliresim.com/O5vTtJ"/>
