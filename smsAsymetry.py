@@ -37,7 +37,7 @@ if drlm == "y" or drlm == "Y":
     print(resp.json())
 
 elif drlm == "n" or drlm == "N":
-    s("python3 dnme.py")
+    quit()
 else:
     print("\n|Hata yaptınız.")
 
