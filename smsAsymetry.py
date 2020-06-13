@@ -5,7 +5,6 @@ import requests
 from os import system as s
 
 
-s("clear")
 
 banner = """
 
