@@ -4,6 +4,9 @@
 import requests
 from os import system as s
 
+
+s("clear")
+
 banner = """
 
 | İstediginiz telefon adresine hergun 1 defa mesaj atma hakkınız vardır 
@@ -14,7 +17,7 @@ banner = """
 
 print(banner)
 
-sor = input("Tel adresi Örn:05555555555 >>> ")
+sor = input("Tel adresi Örn:+905555555555 >>> ")
 
 mesaj = input("Mesajınız >>> ")
 
