@@ -8,7 +8,7 @@
 ###1
 <br><code> apt-get install python3 python3-pip </code>
 ###2
-<br>code> git clone https://github.com/Asymetry/AsymetryTR..git </code>
+<br>>code> git clone https://github.com/Asymetry/AsymetryTR..git </code>
 ###3
 <br>code> cd AsymetryTR. </code> 
 ###4
