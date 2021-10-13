@@ -1,7 +1,5 @@
 # AsymetryTR.
-  
-   Program sadece linux üzerinde çalışmaktadır.!!!
-   
+
    smsAsymetry aracı ise size istediğniz numaraya her gün bir defa sms atmanıza olanak verir.
    
 # Kurulum
